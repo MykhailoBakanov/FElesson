@@ -1,0 +1,134 @@
+.conteiner{
+    max-width: 1512px;
+    margin: 0 auto;
+}
+
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 70px;
+    background-color:#1ABC9C;
+}
+
+.menu a{
+    margin-left: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.soc a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+/*mainn*/
+
+.main-content{
+    display: flex;
+}
+
+.main-text{
+    margin-left: 62px;
+    margin-right: 70px;
+    
+}
+
+.main-text h2{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.main-text p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+}
+/*--------------seletion----------*/
+
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-item{
+    background-image: url(./media/arena.png);
+    width: 436px;
+    height: 376px;
+
+}
+.section-content{
+    background-color: #DCFFEB ;
+    padding: 124px 64px;
+}
+
+#h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    margin-bottom: 50px;
+}
+
+.card img{
+    margin: 73px 203px 117px;
+}
+
+.card-item h2{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color:#ffffff;
+    margin-left: 36px;
+    margin-bottom: 12px;
+}
+
+.card-item p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 36px;
+
+}
+
+/*--------------*/
+
+.footer-content{
+    margin: 84px 69px 76px;
+}
+
+
+.footer-content h2{
+   margin-bottom: 55px;
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+}
+
+
+.content-contact{
+    display: flex;
+    justify-content: space-between;
+
+}
